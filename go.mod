@@ -11,7 +11,7 @@ require (
 	github.com/fsnotify/fsnotify v1.7.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/gin-gonic/gin v1.9.1
-	github.com/go-admin-team/go-admin-core v1.5.2
+	github.com/wuqiong818/go-admin-core v1.0.3
 	github.com/go-admin-team/redisqueue/v2 v2.0.0
 	github.com/go-redis/redis/v9 v9.0.0-rc.1
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0
