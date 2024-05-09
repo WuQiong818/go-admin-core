@@ -1,4 +1,4 @@
-module github.com/WuQiong818/go-admin-core/sdk
+module github.com/wuqiong818/go-admin-core/sdk
 
 go 1.18
 
